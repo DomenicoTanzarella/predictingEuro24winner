@@ -4,7 +4,7 @@
 
 The data is related to past performances of Eupean soccer national teams. 
 
-The dataset comes Kaggle ![alt text](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024/code) 
+The dataset comes Kaggle ![](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024/code) 
 To frame the task, we will refer back to a standard process in industry for data projects called CRISP-DM. This process provides a framework for working through a data problem. A brief overview of CRISP-DM is here.
 
 The notebook is here: [PredictingUEFA24winner.ipynb](https://github.com/DomenicoTanzarella/predictingEuro24winner/blob/main/PredictingUEFA24winner.ipynb)
