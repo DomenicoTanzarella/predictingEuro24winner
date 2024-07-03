@@ -24,7 +24,7 @@ There are many source of data for players and teams, such as:
 
   - Kaggle: Dataset "European Football Database" [Kaggle](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024/code) 
   - Kaggle: Dataset Euro 2024 players dataset [Kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players)
-  - Fifa National Team ranking (as at June 10th 2024) [Kaggle](https://inside.fifa.com/fifa-world-ranking/men?dateId=id14415)
+  - Fifa National Team ranking (as at June 10th 2024) [FIFA](https://inside.fifa.com/fifa-world-ranking/men?dateId=id14415)
     
 The above listed Datasets will be used for the project
 
