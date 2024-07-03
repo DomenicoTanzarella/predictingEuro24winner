@@ -4,7 +4,7 @@
 
 #### Executive summary
 
-The goal of this project is to define a model that can predict the outcome of Euro 2024 soccer based on historycal data
+The goal of this project is to define a model that can predict the outcome of Euro 2024 soccer based on historical data
 
 #### Rationale
 
