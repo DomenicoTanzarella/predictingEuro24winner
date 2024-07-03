@@ -9,9 +9,9 @@ The goal of this project is to define a model that can predict the outcome of Eu
 #### Rationale
 
 Machine Learning is at the peak of the hype cycle, but still hard to understand for most people.
-Conversely, Soccer is an extremely popular, followed and well understood sport
+Conversely, Soccer is an extremely popular, followed and well understood sport.
 
-Leveraging people interest in this popular sport and the Hype of Machine Learning, my goal is to drive more interest into technologies like ML and AI by providing a fun example of ML application in a popular field.
+Leveraging people interest in this popular sport and the Hype of Machine Learning, my goal is to drive more learning into technologies like ML and AI by providing a fun example of ML application in a popular field.
 
 #### Research Question
 
@@ -34,13 +34,13 @@ To frame the task, we will refer back to a standard process in industry for data
 
 This is a classification problem so I expect to:
 
-    Collect data from above listed data sources
+    - Collect data from above listed data sources
 
-    Perform Data exploration, data cleaning and aggregation as needed
+    - Perform Data exploration, data cleaning and aggregation as needed
 
-    Train KNN, Logistic Regression, Decision Trees and SVM, also train with Neural Networks
+    - Train KNN, Logistic Regression, Decision Trees and SVM, also train with Neural Networks
 
-    Once the best model has been found, apply it to the Euro 2024 roster and predict both individual games and final winner.
+    - Once the best model has been found, apply it to the Euro 2024 roster and predict both individual games and final winner.
 
 #### Results
 The model with the best accuracy and f1-score will be deployed for the Euro 2024 predictions.
@@ -50,6 +50,23 @@ In my case Logistic Regression was the best performing mode, and according to it
 #### Outline of project
 
 - [PredictingUEFA24winner.ipynb](https://github.com/DomenicoTanzarella/predictingEuro24winner/blob/main/PredictingUEFA24winner.ipynb)
+
+  The notebook is divided in the following sections that can be easily accessed via the Colab Navigation bar on the left frame.
+
+  -Exploratory Data Analysis
+  -Feature Engineering
+    -Players data Exploration and feature engineering
+    -Final dataset creation
+  -Train the Model
+  -Predict results in group stage (prep work)
+  -Group Games Showtime
+  -Predictions for the round of 16
+  -Predictions for the round of 8
+  -Predictions for the semifinals
+  -Predictions for the final
+      ...and the winner of Euro2024 is...
+
+  Please note that Individual csv files used for the project are in the git repository: in the notebook they are imported from a Google Drive folder, but they can easily be loaded from a computer
 
 ##### Contact and Further Information
 Domenico Tanzarella
