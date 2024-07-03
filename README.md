@@ -49,9 +49,11 @@ In my case Logistic Regression was the best performing mode, and according to it
   
 #### Outline of project
 
-- [PredictingUEFA24winner.ipynb](https://github.com/DomenicoTanzarella/predictingEuro24winner/blob/main/PredictingUEFA24winner.ipynb)
+The Notebook can be found here:
 
-  The notebook is divided in the following sections that can be easily accessed via the Colab Navigation bar on the left frame.
+[PredictingUEFA24winner.ipynb](https://github.com/DomenicoTanzarella/predictingEuro24winner/blob/main/PredictingUEFA24winner.ipynb)
+
+It is divided in the following sections that can be easily accessed via the Colab Navigation bar on the left frame.
 
   - Exploratory Data Analysis
   - Feature Engineering
