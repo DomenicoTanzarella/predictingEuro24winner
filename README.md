@@ -3,33 +3,49 @@
 **Domenico Tanzarella**
 
 #### Executive summary
-The data is related to past performances of Eupean soccer national teams. 
+
+The goal of this project is to define a model that can predict the outcome of Euro 2024 soccer based on historycal data
 
 #### Rationale
-Why should anyone care about this question?
-Soccer is an extrmely popular sport and can drive interest to technologies like ML.
+
+Machine Learning is at the peak of the hype cycle, but still hard to understand for most people.
+Conversely, Soccer is an extremely popular, followed and well understood sport
+
+Leveraging people interest in this popular sport and the Hype of Machine Learning the hope is to drive more interest into technologies like ML and AI.
 
 #### Research Question
-What are you trying to answer?
-Use Machine Learning to predict the winner of Euro 2024
+
+Can we build a machine learning model to predict the winner of the UEFA Euro 2024 tournament based on historical team and player data? 
+Or in general build a predictive model for figuring out UEFA Euro cup winners based on historical data?
 
 #### Data Sources
-What data will you use to answer you question?
-The dataset comes from [Kaggle](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024/code) 
+
+There are many source of data for players and teams, such as:
+
+  - Kaggle: Dataset "European Football Database" [Kaggle](https://www.kaggle.com/datasets/piterfm/football-soccer-uefa-euro-1960-2024/code) 
+  - Kaggle: Dataset Euro 2024 players dataset [Kaggle](https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players)
+  - Fifa National Team ranking (as at June 10th 2024) [Kaggle](https://inside.fifa.com/fifa-world-ranking/men?dateId=id14415)
+    
+The above listed Datasets will be used for the project
 
 #### Methodology
-What methods are you using to answer the question?
+
 To frame the task, we will refer back to a standard process in industry for data projects called CRISP-DM. This process provides a framework for working through a data problem. 
 
-#### Results
-What did your research find?
-Spain will win Euro2024: a result that matches common sense.
+This is a classification problem so I expect to:
 
-#### Next steps
-- Playbook can be optimized: a lot of code is repeated, so there is an opportunity to do better
-- Cross validation can be used to improve the performance of the classifiers
-- Neural Networks, XGBoost could be used
-- Add more data from the past, and verify accuracy improvment
+    Collect data from above listed data sources
+
+    Perform Data exploration, data cleaning and aggregation as needed
+
+    Train KNN, Logistic Regression, Decision Trees and SVM, also train with Neural Networks
+
+    Once the best model has been found, apply it to the Euro 2024 roster and predict both individual games and final winner.
+
+#### Results
+The model with the best accuracy and f1-score will be deployed for the Euro 2024 predictions.
+
+In my case Logistic Regression was the best performing mode, and according to it Spain will win Euro2024, which is a result that matches common sense despite Spain not being ranked the highest in the FIFA ranming system.
   
 #### Outline of project
 
