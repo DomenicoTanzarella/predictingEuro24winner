@@ -11,7 +11,7 @@ The goal of this project is to define a model that can predict the outcome of Eu
 Machine Learning is at the peak of the hype cycle, but still hard to understand for most people.
 Conversely, Soccer is an extremely popular, followed and well understood sport
 
-Leveraging people interest in this popular sport and the Hype of Machine Learning the hope is to drive more interest into technologies like ML and AI.
+Leveraging people interest in this popular sport and the Hype of Machine Learning, my goal is to drive more interest into technologies like ML and AI by providing a fun example of ML application in a popular field.
 
 #### Research Question
 
