@@ -64,7 +64,8 @@ In my case Logistic Regression was the best performing mode, and according to it
   - Predictions for the round of 8
   - Predictions for the semifinals
   - Predictions for the final
-      ...and the winner of Euro2024 is...
+
+    ...and the winner of Euro2024 is...
 
   Please note that Individual csv files used for the project are in the git repository: in the notebook they are imported from a Google Drive folder, but they can easily be loaded from a computer
 
