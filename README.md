@@ -53,17 +53,17 @@ In my case Logistic Regression was the best performing mode, and according to it
 
   The notebook is divided in the following sections that can be easily accessed via the Colab Navigation bar on the left frame.
 
-  -Exploratory Data Analysis
-  -Feature Engineering
-    -Players data Exploration and feature engineering
-    -Final dataset creation
-  -Train the Model
-  -Predict results in group stage (prep work)
-  -Group Games Showtime
-  -Predictions for the round of 16
-  -Predictions for the round of 8
-  -Predictions for the semifinals
-  -Predictions for the final
+  - Exploratory Data Analysis
+  - Feature Engineering
+    - Players data Exploration and feature engineering
+    - Final dataset creation
+  - Train the Model
+  - Predict results in group stage (prep work)
+  - Group Games Showtime
+  - Predictions for the round of 16
+  - Predictions for the round of 8
+  - Predictions for the semifinals
+  - Predictions for the final
       ...and the winner of Euro2024 is...
 
   Please note that Individual csv files used for the project are in the git repository: in the notebook they are imported from a Google Drive folder, but they can easily be loaded from a computer
