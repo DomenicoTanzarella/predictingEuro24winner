@@ -57,6 +57,10 @@ It is divided in the following sections that can be easily accessed via the Cola
 
   - Exploratory Data Analysis
   - Feature Engineering
+    - Visualizations:
+      -  Goal Scored vs Goal Conceded
+      -  Percentage wins vs Goal Scored
+      -  Heatmap
     - Players data Exploration and feature engineering
     - Final dataset creation
   - Train the Model
