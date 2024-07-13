@@ -4,14 +4,14 @@
 
 #### Executive summary
 
-The goal of this project is to define a model that can predict the outcome of Euro 2024 soccer based on historical data
+The goal of this project is to identify and train a model that can predict the outcome of Euro 2024 cup based on historical data
 
 #### Rationale
 
 Machine Learning is at the peak of the hype cycle, but still hard to understand for most people.
 Conversely, Soccer is an extremely popular, followed and well understood sport.
 
-Leveraging people interest in this popular sport and the Hype of Machine Learning, my goal is to drive more learning into technologies like ML and AI by providing a fun example of ML application in a popular field.
+Leveraging people interest in this popular sport and the hype of Machine Learning, my goal is to drive more learning into technologies like ML and AI by providing a fun example of ML application in a popular field.
 
 #### Research Question
 
