@@ -84,3 +84,4 @@ Experiment with different classifiers, or different dataset. Run GridSearchCV to
 
 ##### Contact and Further Information
 Domenico Tanzarella
+domenicotanzarella@gmail.com
