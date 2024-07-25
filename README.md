@@ -45,7 +45,7 @@ This is a classification problem so I expect to:
 #### Results
 The model with the best accuracy and f1-score will be deployed for the Euro 2024 predictions.
 
-In my case Logistic Regression was the best performing mode, and according to it Spain will win Euro2024, which is a result that matches common sense despite Spain not being ranked the highest in the FIFA ranming system.
+In my case DecisionTreeClassifier was the best performing mode, and according to it Spain will win Euro2024, which is a result that matches common sense despite Spain not being ranked the highest in the FIFA ranming system.
   
 #### Outline of project
 
@@ -77,6 +77,10 @@ It is divided in the following sections that can be easily accessed via the Cola
     ...and the winner of Euro2024 is...
 
   Please note that Individual csv files used for the project are in the git repository: in the notebook they are imported from a Google Drive folder, but they can easily be loaded from a computer
+
+##### Next Steps
+
+Experiment with different classifiers, or different dataset. Run GridSearchCV to fine tune the models (GPUs needed).
 
 ##### Contact and Further Information
 Domenico Tanzarella
